@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "841963713154",
+    "firebase_url": "https://food-waste-managment-91bae-default-rtdb.firebaseio.com",
+    "project_id": "food-waste-managment-91bae",
+    "storage_bucket": "food-waste-managment-91bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841963713154:android:5fc88410d3fbd7b0e6fa9b",
+        "android_client_info": {
+          "package_name": "com.example.food4thought"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdlGlL_xi-dJykQFG9x6IhAPZycKLeIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841963713154:android:a15546ef09518f48e6fa9b",
+        "android_client_info": {
+          "package_name": "com.example.food_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdlGlL_xi-dJykQFG9x6IhAPZycKLeIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841963713154:android:94c94b763327fbb4e6fa9b",
+        "android_client_info": {
+          "package_name": "com.example.food_enrgy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdlGlL_xi-dJykQFG9x6IhAPZycKLeIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841963713154:android:4cf9c6714fd7666de6fa9b",
+        "android_client_info": {
+          "package_name": "com.example.food_waste_managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841963713154-f9c6v211haqg1bi4uet9et7ta73dkak0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_waste_managment",
+            "certificate_hash": "d3c6b37db79fab1c25a4fa9ab2aeadb1d5c4665a"
+          }
+        },
+        {
+          "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdlGlL_xi-dJykQFG9x6IhAPZycKLeIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841963713154:android:eaaea95057f17fd4e6fa9b",
+        "android_client_info": {
+          "package_name": "com.example.photoghrapherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdlGlL_xi-dJykQFG9x6IhAPZycKLeIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841963713154-nmom75g43iqdsnuvjn89ubdn01kkconf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
